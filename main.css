@@ -38,7 +38,7 @@ hr{
     height:1px;
     width: 90%;
 }
-i.fa{
+i.fa,i.fab{
     color:#BB86FC;
 }
 .container{
